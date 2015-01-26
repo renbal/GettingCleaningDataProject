@@ -37,317 +37,316 @@ VARIABLES:
    Represented as Integer codes (1, 2, 3, ... 30) in original data, converted to factor for the purpose of grouping data.
 
 
-"tBodyAcc.mean...X": Body Acceleration means for 
+"tBodyAcc.mean...X": Total Body Acceleration from the Accelerometer means for Axis X
 	Numeric 
 
 
-"tBodyAcc.mean...Y"
+"tBodyAcc.mean...Y": Total Body Acceleration from the Accelerometer means for Axis Y
 	Numeric 
 
 
-"tBodyAcc.mean...Z"
+"tBodyAcc.mean...Z": Total Body Acceleration from the Accelerometer means for Axis Z
 	Numeric 
 
 
-"tBodyAcc.std...X"
+"tBodyAcc.std...X": Total Body Acceleration from the Accelerometer Standard Deviation for Axis X
 	Numeric 
 
 
-"tBodyAcc.std...Y"
+"tBodyAcc.std...Y": Total Body Acceleration from the Accelerometer Standard Deviation for Axis Y
 	Numeric 
 
 
-"tBodyAcc.std...Z"
+"tBodyAcc.std...Z": Total Body Acceleration from the Accelerometer Standard Deviation for Axis Z
 	Numeric 
 
 
-"tGravityAcc.mean...X"
+"tGravityAcc.mean...X":  Total Gravity Acceleration from the Accelerometer mean for Axis x
 	Numeric 
 
 
-"tGravityAcc.mean...Y"
+"tGravityAcc.mean...Y":  Total Gravity Acceleration from the Accelerometer mean for Axis Y
 	Numeric 
 
 
-"tGravityAcc.mean...Z"
+"tGravityAcc.mean...Z":  Total Gravity Acceleration from the Accelerometer mean for Axis Z
 	Numeric 
 
 
-"tGravityAcc.std...X"
+"tGravityAcc.std...X":  Total Gravity Acceleration from the Accelerometer Standard Deviation for Axis X
 	Numeric 
 
 
-"tGravityAcc.std...Y"
+"tGravityAcc.std...Y":  Total Gravity Acceleration from the Accelerometer Standard Deviation for Axis Y
 	Numeric 
 
 
-"tGravityAcc.std...Z"
+"tGravityAcc.std...Z":  Total Gravity Acceleration from the Accelerometer Standard Deviation for Axis Z
 	Numeric 
 
 
-"tBodyAccJerk.mean...X"
+"tBodyAccJerk.mean...X":  Total Body Acceleration from the Accelerometer Jerk mean for Axis X
 	Numeric 
 
 
-"tBodyAccJerk.mean...Y"
+"tBodyAccJerk.mean...Y":  Total Body Acceleration from the Accelerometer Jerkmean for Axis Y
 	Numeric 
 
 
-"tBodyAccJerk.mean...Z"
+"tBodyAccJerk.mean...Z":  Total Body Acceleration from the Accelerometer Jerkmean for Axis Z
 	Numeric 
 
 
-"tBodyAccJerk.std...X"
+"tBodyAccJerk.std...X":  Total Body Acceleration from the Accelerometer Jerk Standard Deviation for Axis X
 	Numeric 
 
 
-"tBodyAccJerk.std...Y"
+"tBodyAccJerk.std...Y":  Total Body Acceleration from the Accelerometer JerkStandard Deviation for Axis Y
 	Numeric 
 
 
-"tBodyAccJerk.std...Z"
+"tBodyAccJerk.std...Z":  Total Body Acceleration from the Accelerometer JerkStandard Deviation for Axis Z
 	Numeric 
 
 
-"tBodyGyro.mean...X"
+"tBodyGyro.mean...X":  Total Body Angular velocity from the gyroscope mean for Axis X
 	Numeric 
 
 
-"tBodyGyro.mean...Y"
+"tBodyGyro.mean...Y":  Total Body Angular velocity from the gyroscope mean for Axis Y
 	Numeric 
 
 
-"tBodyGyro.mean...Z"
+"tBodyGyro.mean...Z":  Total Body Angular velocity from the gyroscope mean for Axis Z
 	Numeric 
 
 
-"tBodyGyro.std...X"
+"tBodyGyro.std...X":  Total Body Angular velocity from the gyroscope Standard Deviation for Axis X
 	Numeric 
 
 
-"tBodyGyro.std...Y"
+"tBodyGyro.std...Y":  Total Body Angular velocity from the gyroscope Standard Deviation for Axis Y
 	Numeric 
 
 
-"tBodyGyro.std...Z"
+"tBodyGyro.std...Z":  Total Body Angular velocity from the gyroscope Standard Deviation for Axis Z
 	Numeric 
 
 
-"tBodyGyroJerk.mean...X"
+"tBodyGyroJerk.mean...X":  Total Body Angular velocity from the gyroscope Jerk mean for Axis X
 	Numeric 
 
 
-"tBodyGyroJerk.mean...Y"
+"tBodyGyroJerk.mean...Y":  Total Body Angular velocity from the gyroscope Jerk mean for Axis Y
 	Numeric 
 
 
-"tBodyGyroJerk.mean...Z"
+"tBodyGyroJerk.mean...Z":  Total Body Angular velocity from the gyroscope Jerk mean for Axis Z
 	Numeric 
 
 
-"tBodyGyroJerk.std...X"
+"tBodyGyroJerk.std...X":  Total Body Angular velocity from the gyroscope Jerk Standard Deviation for Axis X
 	Numeric 
 
 
-"tBodyGyroJerk.std...Y"
+"tBodyGyroJerk.std...Y":  Total Body Angular velocity from the gyroscope Jerk Standard Deviation for Axis Y
 	Numeric 
 
 
-"tBodyGyroJerk.std...Z"
+"tBodyGyroJerk.std...Z":  Body Angular velocity from the gyroscope Jerk Standard Deviation for Axis Z
 	Numeric 
 
 
-"tBodyAccMag.mean.."
+"tBodyAccMag.mean..":  Total Body acceleration Mag. mean
 	Numeric 
 
 
-"tBodyAccMag.std.."
+"tBodyAccMag.std..":  Total Body acceleration Mag. Standard Deviation 
 	Numeric 
 
 
-"tGravityAccMag.mean.."
+"tGravityAccMag.mean..":  Total Body acceleration Mag. mean for 
 	Numeric 
 
 
-"tGravityAccMag.std.."
+"tGravityAccMag.std..":  Total Body acceleration Mag. Standard Deviation  
 	Numeric 
 
 
-"tBodyAccJerkMag.mean.."
+"tBodyAccJerkMag.mean..":  Total Body acceleration Jerk Mag. mean 
 	Numeric 
 
 
-"tBodyAccJerkMag.std.."
+"tBodyAccJerkMag.std..":  Total Body acceleration Jerk Mag. Standard Deviation  
 	Numeric 
 
 
-"tBodyGyroMag.mean.."
+"tBodyGyroMag.mean..": Total Body angular velocity from gyroscope Mag. mean 
 	Numeric 
 
 
-"tBodyGyroMag.std.."
+"tBodyGyroMag.std..": Total Body angular velocity from gyroscope Mag. Standard Deviation
 	Numeric 
 
 
-"tBodyGyroJerkMag.mean.."
+"tBodyGyroJerkMag.mean..": Total Body angular velocity from gyroscope Jerk Mag. mean 
 	Numeric 
 
 
-"tBodyGyroJerkMag.std.."
+"tBodyGyroJerkMag.std..": Total Body angular velocity from gyroscope Jerk Mag.  Standard Deviation
 	Numeric 
 
 
-"fBodyAcc.mean...X"
+"fBodyAcc.mean...X":  Filtered Body Acceleration from Accerlerometer mean for Axis X
 	Numeric 
 
 
-"fBodyAcc.mean...Y"
+"fBodyAcc.mean...Y":  Filtered Body Acceleration from Accerlerometer mean for Axis Y
 	Numeric 
 
 
-"fBodyAcc.mean...Z"
+"fBodyAcc.mean...Z":  Filtered mean for Axis Z
 	Numeric 
 
 
-"fBodyAcc.std...X"
+"fBodyAcc.std...X":  Filtered Body Acceleration from Accerlerometer Standard Deviation for Axis X
 	Numeric 
 
 
-"fBodyAcc.std...Y"
+"fBodyAcc.std...Y":  Filtered Body Acceleration from Accerlerometer Standard Deviation for Axis Y
 	Numeric 
 
 
-"fBodyAcc.std...Z"
+"fBodyAcc.std...Z":  Filtered Body Acceleration from Accerlerometer Standard Deviation for Axis Z
 	Numeric 
 
 
-"fBodyAcc.meanFreq...X"
+"fBodyAcc.meanFreq...X": Filtered Body Acceleration from Accerlerometer  mean frequency for Axis X
 	Numeric 
 
 
-"fBodyAcc.meanFreq...Y"
+"fBodyAcc.meanFreq...Y":  Filtered Body Acceleration from Accerlerometer mean frequency for Axis Y
 	Numeric 
 
 
-"fBodyAcc.meanFreq...Z"
+"fBodyAcc.meanFreq...Z":  Filtered Body Acceleration from Accerlerometer mean  frequency for Axis Z
 	Numeric 
 
 
-"fBodyAccJerk.mean...X"
+"fBodyAccJerk.mean...X":  Filtered Body Acceleration from Accerlerometer Jerk mean for Axis X
 	Numeric 
 
 
-"fBodyAccJerk.mean...Y"
+"fBodyAccJerk.mean...Y": Filtered Body Acceleration from Accerlerometer Jerk mean for Axis Y
 	Numeric 
 
 
-"fBodyAccJerk.mean...Z"
+"fBodyAccJerk.mean...Z": Filtered  Body Acceleration from Accerlerometer Jerk mean for Axis Z
 	Numeric 
 
 
-"fBodyAccJerk.std...X"
+"fBodyAccJerk.std...X":  Filtered Body Acceleration from Accerlerometer Jerk Standard Deviation for Axis X
 	Numeric 
 
 
-"fBodyAccJerk.std...Y"
+"fBodyAccJerk.std...Y":  Filtered Body Acceleration from Accerlerometer Jerk Standard Deviation for Axis Y
 	Numeric 
 
 
-"fBodyAccJerk.std...Z"
+"fBodyAccJerk.std...Z":  Filtered Body Acceleration from Accerlerometer Jerk Standard Deviation for Axis Z
 	Numeric 
 
 
-"fBodyAccJerk.meanFreq...X"
+"fBodyAccJerk.meanFreq...X":  Filtered Body Acceleration from Accerlerometer Jerk mean frequency for Axis X
 	Numeric 
 
 
-"fBodyAccJerk.meanFreq...Y"
+"fBodyAccJerk.meanFreq...Y":  Filtered Body Acceleration from Accerlerometer Jerk mean frequency for Axis Y
 	Numeric 
 
 
-"fBodyAccJerk.meanFreq...Z"
+"fBodyAccJerk.meanFreq...Z":  Filtered Body Acceleration from Accerlerometer Jerk mean frequency for Axis Z
 	Numeric 
 
 
-"fBodyGyro.mean...X"
+"fBodyGyro.mean...X": Filtered  Body Angular Velocity from Gyroscope mean for Axis X
 	Numeric 
 
 
-"fBodyGyro.mean...Y"
+"fBodyGyro.mean...Y": Filtered Body Angular Velocity from Gyroscope mean for Axis Y
 	Numeric 
 
 
-"fBodyGyro.mean...Z"
+"fBodyGyro.mean...Z": Filtered Body Angular Velocity from Gyroscope mean for Axis Z
 	Numeric 
 
 
-"fBodyGyro.std...X"
+"fBodyGyro.std...X": Filtered Body Angular Velocity from Gyroscope Standard Deviation for Axis X
 	Numeric 
 
 
-"fBodyGyro.std...Y"
+"fBodyGyro.std...Y": Filtered Body Angular Velocity from Gyroscope Standard Deviation for Axis Y
 	Numeric 
 
 
-"fBodyGyro.std...Z"
+"fBodyGyro.std...Z": Filtered Body Angular Velocity from Gyroscope Standard Deviation for Axis Z
 	Numeric 
 
 
-"fBodyGyro.meanFreq...X"
+"fBodyGyro.meanFreq...X": Filtered Body Angular Velocity from Gyroscope mean frequency for Axis X
 	Numeric 
 
 
-"fBodyGyro.meanFreq...Y"
+"fBodyGyro.meanFreq...Y": Filtered Body Angular Velocity from Gyroscope mean frequency for Axis Y
 	Numeric 
 
 
-"fBodyGyro.meanFreq...Z"
+"fBodyGyro.meanFreq...Z":  Filtered Body Angular Velocity from Gyroscope mean frequency for Axis Z
 	Numeric 
 
 
-"fBodyAccMag.mean.."
+"fBodyAccMag.mean..":  Filtered Body Acceleration from Accerlerometer Mag mean for
 	Numeric 
 
 
-"fBodyAccMag.std.."
+"fBodyAccMag.std..":  Filtered Body Acceleration from Accerlerometer Mag Standard Deviation 
 	Numeric 
 
 
-"fBodyAccMag.meanFreq.."
+"fBodyAccMag.meanFreq..":  Filtered Body Acceleration from Accerlerometer Mag mean frequency
 	Numeric 
 
 
-"fBodyBodyAccJerkMag.mean.."
+"fBodyBodyAccJerkMag.mean..":   Filtered Body Body Acceleration from Accerlerometer Jerk Mag mean
 	Numeric 
 
 
-"fBodyBodyAccJerkMag.std.."
+"fBodyBodyAccJerkMag.std..": Filtered Body Body Acceleration from Accerlerometer Jerk Mag Standard Deviation 
 	Numeric 
 
 
-"fBodyBodyAccJerkMag.meanFreq.."
+"fBodyBodyAccJerkMag.meanFreq..": Filtered Body Body Acceleration from Accerlerometer Jerk Mag mean frequency 
 	Numeric 
 
 
-"fBodyBodyGyroMag.mean.."
+"fBodyBodyGyroMag.mean..": Filtered Body Body Angular Velocity from Gyroscope Mag mean 
 	Numeric 
 
 
-"fBodyBodyGyroMag.std.."
+"fBodyBodyGyroMag.std..":  Filtered Body Body Angular Velocity from Gyroscope Mag Standard Deviation 
 	Numeric 
 
 
-"fBodyBodyGyroMag.meanFreq.."
+"fBodyBodyGyroMag.meanFreq..": Filtered Body Body Angular Velocity from Gyroscope Mag mean frequency
 	Numeric 
 
 
-"fBodyBodyGyroJerkMag.mean.."
+"fBodyBodyGyroJerkMag.mean..":  Filtered Body Body Angular Velocity from Gyroscope Jerk Mag mean 
 	Numeric 
 
 
-"fBodyBodyGyroJerkMag.std.."
+"fBodyBodyGyroJerkMag.std..":  Filtered Body Body Angular Velocity from Gyroscope Jerk Mag Standard Deviation 
 	Numeric 
 
 
-"fBodyBodyGyroJerkMag.meanFreq.."
-  Numeric
+"fBodyBodyGyroJerkMag.meanFreq..": Filtered Body Body Angular Velocity from Gyroscope Jerk Mag mean frequency
