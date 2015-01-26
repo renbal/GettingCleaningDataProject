@@ -7,7 +7,7 @@ output: html_document
 
 The purpose of this project is to prepare tidy data that can be used for later analysis. The data being prepared is represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
-[1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The data is processed to output a tidy dataset which averages select  readings of smartphone data, grouped by Subject and Activity.
 
